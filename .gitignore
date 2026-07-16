@@ -1,0 +1,20 @@
+# Environment files
+.env
+*.env
+
+# Firebase service account
+serviceAccountKey.json
+server/app/config/serviceAccountKey.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Build
+dist/
+build/
